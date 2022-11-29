@@ -1,12 +1,9 @@
 
 <body>
     <div>
-        <h3 text-align="center">Isac, 17</h3>
+        <h3 align="center">Isac, 17</h3>
+    </div>
+    <div>
+        ![Finkod?](https://img.shields.io/badge/Finkod%3F-%E2%9C%85-green)
     </div>
 </body>
-
-
-<!---
-Sypx/Sypx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
