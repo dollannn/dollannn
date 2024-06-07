@@ -1,8 +1,2 @@
-
-<div>
-  
-</div>
-<div align="center">    
-<a href="" alt="Finkoden">
-            <img src="https://img.shields.io/badge/Finkod%3F-%E2%9C%85-green" alt="Finkoden"</a>
-</div>   
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.dln.one/GLEuMHrbEAEA9IG.jpg');]{x0000}$}
